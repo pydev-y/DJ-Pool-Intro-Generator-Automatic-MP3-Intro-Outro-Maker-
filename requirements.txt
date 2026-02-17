@@ -1,0 +1,6 @@
+numpy==1.26.4
+librosa
+soundfile
+audioread
+demucs
+ffmpeg-python
